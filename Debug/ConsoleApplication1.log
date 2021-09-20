@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(ConsoleApplication1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  201621763_허성민.cpp
+D:\WorkSpace\C++\OpenGL\ConsoleApplication1\201621763_허성민.cpp(8,46): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\C++\OpenGL\ConsoleApplication1\201621763_허성민.cpp(10,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\C++\OpenGL\ConsoleApplication1\201621763_허성민.cpp(13,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\C++\OpenGL\ConsoleApplication1\201621763_허성민.cpp(14,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\C++\OpenGL\ConsoleApplication1\201621763_허성민.cpp(75,33): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  ConsoleApplication1.vcxproj -> D:\WorkSpace\C++\OpenGL\Debug\computer Graphic.exe
