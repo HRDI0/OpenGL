@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\WorkSpace\C++\OpenGL\x64\Release\computer Graphic.exe</FullPath>
+      <FullPath>D:\WorkSpace\OpenGL\x64\Release\computer Graphic.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

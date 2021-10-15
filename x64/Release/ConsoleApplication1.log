@@ -1,13 +1,15 @@
-﻿  play_car.cpp
-D:\WorkSpace\C++\OpenGL\ConsoleApplication1\play_car.cpp(10,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
-D:\WorkSpace\C++\OpenGL\ConsoleApplication1\play_car.cpp(12,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
-D:\WorkSpace\C++\OpenGL\ConsoleApplication1\play_car.cpp(15,46): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
-D:\WorkSpace\C++\OpenGL\ConsoleApplication1\play_car.cpp(16,46): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
-D:\WorkSpace\C++\OpenGL\ConsoleApplication1\play_car.cpp(108,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\WorkSpace\C++\OpenGL\ConsoleApplication1\play_car.cpp(177,21): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  fourView.cpp
+D:\WorkSpace\OpenGL\ConsoleApplication1\fourView.cpp(15,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\OpenGL\ConsoleApplication1\fourView.cpp(17,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\OpenGL\ConsoleApplication1\fourView.cpp(20,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\OpenGL\ConsoleApplication1\fourView.cpp(21,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\OpenGL\ConsoleApplication1\fourView.cpp(36,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\OpenGL\ConsoleApplication1\fourView.cpp(40,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\OpenGL\ConsoleApplication1\fourView.cpp(72,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\OpenGL\ConsoleApplication1\fourView.cpp(76,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\WorkSpace\OpenGL\ConsoleApplication1\fourView.cpp(85,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
   코드를 생성하고 있습니다.
-  12 of 12 functions (100.0%) were compiled.
-    6 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   코드를 생성했습니다.
-  ConsoleApplication1.vcxproj -> D:\WorkSpace\C++\OpenGL\x64\Release\computer Graphic.exe
+  ConsoleApplication1.vcxproj -> D:\WorkSpace\OpenGL\x64\Release\computer Graphic.exe
